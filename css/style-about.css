@@ -279,7 +279,7 @@ h1{
     }
 
     #bottom-sml-res{
-        margin-top: 30vh;
+        margin-top: 10vh;
         display: flex;
         flex-direction: column;
     }
@@ -316,7 +316,7 @@ h1{
     }
 
     .about-text-upper-smallres {
-        padding: 10px;
+        padding: 5px;
         font-size: 3.5vw;
     }
 
