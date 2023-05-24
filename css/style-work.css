@@ -9,7 +9,7 @@ body {
 #back-icon {
   position: absolute;
   top: 90vh;
-  left:90vw;
+  left:80vw;
 }
 
 #upper-part-index {
@@ -521,7 +521,7 @@ h1{
 @media only screen and (max-width: 480px) {
   #back-icon {
     top: 150vh;
-    left: 90vw;
+    left: 80vw;
   }
 
   .slide-show-pic {
@@ -535,7 +535,7 @@ h1{
   #back-icon-ph {
     position: absolute;
     top: 140vh;
-    left:90vw;
+    left:80vw;
   }
   
   #footer-ph {
