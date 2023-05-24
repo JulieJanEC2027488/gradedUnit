@@ -274,6 +274,10 @@ h1{
 
 @media only screen and (max-width: 480px) {
 
+    #upper-part-index {
+        height: 60vh;
+    }
+
     #bottom-sml-res{
         margin-top: 30vh;
         display: flex;
