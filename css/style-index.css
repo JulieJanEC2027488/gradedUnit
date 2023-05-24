@@ -39,7 +39,7 @@ h1{
     left: 80vw;
     box-shadow: 12px 12px 2px 1px rgba(31, 31, 38, 0.2);
     color: black;
-    text-decoration: no;
+    text-decoration: none;
     animation-name: about-ani;
     animation-duration: 3s;
     transform: rotate(-3deg);
@@ -335,7 +335,7 @@ h1{
     display: block;
     position: fixed;
     border-radius: 10px;
-    top: 70;
+    top: 70px;
     left: 100%;
     width: 300px;
     height: 30vh;
