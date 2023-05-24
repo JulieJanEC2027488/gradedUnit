@@ -19,9 +19,9 @@ canvas {
 }
 /*----------------------------------MEDIA QUIERES -----------------------------*/
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 480px) {
 #title-screen {
-    width: 50%;
+    width: 70%;
     height: auto;
 }
 
@@ -44,6 +44,6 @@ canvas {
 .instruction-game {
     position: absolute;
     top: 30vh;
-    left: 25vw;
+    left: 15vw;
 }
 }

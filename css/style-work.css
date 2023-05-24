@@ -437,6 +437,9 @@ h1{
 
 
 /* -----------------ANIMATION PART  High res.*/
+.text-ani-sml {
+  margin-left: 5%;
+}
 
 #sml-res-animation{
   display: none;
