@@ -1,0 +1,49 @@
+#title-screen-part {
+    position: absolute;
+    left: 25vw;
+}
+
+.button-game {
+    position: absolute;
+    top: 20vh;
+    right: 50vw;
+}
+
+canvas {
+    position: absolute;
+    left: 25vw;
+
+}
+.instruction-game {
+    position: absolute;
+}
+/*----------------------------------MEDIA QUIERES -----------------------------*/
+
+@media only screen and (max-width: 700px) {
+#title-screen {
+    width: 50%;
+    height: auto;
+}
+
+#title-button {
+    width:50%;
+}
+
+.button-game {
+    position: absolute;
+    top: 15vh;
+    right: 28vw;
+}
+
+#game-flex {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
+.instruction-game {
+    position: absolute;
+    top: 30vh;
+    left: 25vw;
+}
+}
